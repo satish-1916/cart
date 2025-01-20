@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:rgb(71, 25, 25);
+    height: 80px;
+    color: white;
+    font-size: 25px;
+}
+.input{
+    font-size: 10px;
+    position:relative;
+    right: 30px;
+}
+
+.cart{
+    position: relative;
+    left:100px;
+}
+
+
+.sections{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(222, 91, 91);
+    height: 300px;
+    text-align: center;  
+}
+
+.sale{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(119, 79, 51);
+    height: 300px;
+    color: white;
+}
+
+.nav-sections{
+    height:150px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(197, 139, 68);
+}
